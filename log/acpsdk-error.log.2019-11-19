@@ -1,0 +1,1909 @@
+[(20191119115357)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119115357)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119115357)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119115357)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119115357)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119115357)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119152654)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119152654)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119152654)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119152654)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119152654)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119152654)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119153709)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119153709)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119153709)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119153709)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119153709)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119153709)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119174916)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119174916)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119174916)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119174916)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119174916)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119174916)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119175102)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119175102)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119175102)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119175102)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119175102)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119175102)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119175144)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119175144)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119175144)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119175144)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119175144)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119175144)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119175347)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119175347)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119175347)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119175347)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119175347)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119175347)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119180656)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119180656)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119180656)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119180656)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119180656)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119180656)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119180800)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119180800)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119180800)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119180800)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119180800)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119180800)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119180912)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119180912)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119180912)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119180912)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119180912)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119180912)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119181106)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119181106)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119181106)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119181106)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119181106)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119181106)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119181142)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119181142)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119181142)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119181142)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119181142)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119181142)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119181142)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119181142)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119181142)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119181142)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119181142)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119181142)|(ACP_SDK_LOG)]=[txnTime-->20191119181142]
+[(20191119181142)|(ACP_SDK_LOG)]=[payTimeout-->20191119182642]
+[(20191119181142)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119181142)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119181142)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119181142)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119181142)|(ACP_SDK_LOG)]=[add BC provider]
+[(20191119181142)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119181142)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119181142)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119181142)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119181142)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119181142)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119181142)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119181142)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119181142)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119181142)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119181142)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119181142)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119181142)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119181142)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119181142)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119181142)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119181142)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119181142)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119181142)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119181142)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119181142)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119181142)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119181142)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119181142)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119181142)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119181142)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119181142)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119181142)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119181142)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119181142)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119181144)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119181144)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119181144)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119181144)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119181144)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119181144)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119181144)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119181144)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119181144)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119181144)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119181144)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119181144)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119181144)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119181144)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&orderId=12345678&payTimeout=20191119182642&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119181142&txnType=01&version=5.1.0]]
+[(20191119181144)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[558ca0d06bb7ecaee016608f73ba64f4b3156bccd888b8650820b2a833947462]]
+[(20191119181144)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="QlwWwCQRCk4jyeTBkwiDx5csYsBl+JEAtFF++FwoiBty61YOEq3Pq/Zha9hs4AznzFkFkNqwkzzgk888Mudb1i/PJ3zR8QC47uB9qSIwrQO6CeVAj5Ztx9cEmvYkWjqlaJZVH3YfaNjDm27uQXg7KtLzNIye18l18p3gliBDwd3OV/maL/Zn96aPy7Nl9S+hBz5kRYvux4QEWxfVf/VpdO8yftPHgTlMLk8209x8CQLSnIvtPYEXbbenhnTFl1iFsd7BqEG1g7600v71VRDOpOeC9RDwHqGoSQe8IvLukwLGPITqWVFI6JbBQOw3zqGdnyflYvqqeD2aWpUS1LivjA=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119181142"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119182642"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119181252)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119181252)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119181252)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119181252)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119181252)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119181252)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119181419)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119181419)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119181419)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119181419)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119181419)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119181419)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119181419)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119181419)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119181419)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119181419)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119181419)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119181419)|(ACP_SDK_LOG)]=[txnTime-->20191119181419]
+[(20191119181419)|(ACP_SDK_LOG)]=[payTimeout-->20191119182919]
+[(20191119181419)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119181419)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119181419)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119181419)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119181419)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119181419)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119181419)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119181419)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119181419)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119181419)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119181419)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119181419)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119181419)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119181419)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119181419)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119181419)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119181419)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119181419)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119181419)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119181419)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119181419)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119181419)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119181419)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119181419)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119181419)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119181419)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119181419)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119181419)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119181419)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119181419)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119181419)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119181419)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119181419)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119181419)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119181419)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119181420)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119181420)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119181420)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119181420)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119181420)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119181420)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119181420)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119181420)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119181420)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119181420)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119181420)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119181420)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119181420)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119181420)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&orderId=12345678&payTimeout=20191119182919&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119181419&txnType=01&version=5.1.0]]
+[(20191119181420)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[a4e48ab715e0ee2058e28bd54ef9181c51d1d42f34a5def3c1243c86173cc05e]]
+[(20191119181420)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="tr4Eo6QGDPJpJPxtgxMrQKPHANCbc9EQ5MWue7j7PXimkzqXdPJTXl8IG5ffxf9yZ5WOnXQAvQR2GsPG3CKH3FYPvJxUIt6bhAJAES3Ik4fmvVoz31rpp2SobAIVyNJ6pSNPZ5eOZlocjQYjTqZJAVbccJZcUdP034Dag9P8HtDwOK2R+YjeIPSBhcrBuDMU5q4v3dXsc9N85vhMBPKdJKEbzLyG8rzU0I7kQx+JhrmErbqJ3+Sw05AhtCIUYkz2RQKsc3v3R0HbQeAqeDk04HDZ8rhj0jV2Fq7wU2vwWmsFmALzsUbFkbMMXhKFewoAwL3dkF2hE+zMgYdvkL3oTg=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119181419"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119182919"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119181506)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119181506)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119181506)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119181506)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119181506)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119181506)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119181730)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119181730)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119181730)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119181730)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119181730)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119181730)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119181821)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119181821)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119181821)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119181821)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119181821)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119181821)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119181826)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119181826)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119181826)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119181826)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119181826)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119181826)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119181826)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119181826)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119181826)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119181826)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119181826)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119181826)|(ACP_SDK_LOG)]=[txnTime-->20191119181826]
+[(20191119181826)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119181826)|(ACP_SDK_LOG)]=[payTimeout-->20191119183326]
+[(20191119181826)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119181826)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119181826)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119181826)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119181826)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119181826)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119181826)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119181826)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119181826)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119181826)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119181826)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119181826)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119181826)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119181826)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119181826)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119181826)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119181826)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119181826)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119181826)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119181826)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119181826)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119181826)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119181826)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119181826)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119181826)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119181826)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119181826)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119181826)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119181826)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119181826)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119181826)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119181826)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119181826)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119181826)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119181826)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119181827)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119181827)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119181827)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119181827)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119181827)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119181827)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119181827)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119181827)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119181827)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119181827)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119181827)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119181827)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119181827)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119181827)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=12345678&payTimeout=20191119183326&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119181826&txnType=01&version=5.1.0]]
+[(20191119181827)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[70794affb1baf87d894c6bd90537dc2bfb06e5f311b3469e56e838e2014f629a]]
+[(20191119181827)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="wfiBo7ACR3tETc2jFwJenAqanhs9mK5mp7EyMjlfJ0rJcXQuOZ/IQrrtUNW2iyn0a9yfT8PWj5pOz0nkVtTnKnncDWa9LcXkSmazKZmg1kKmsc908P1QV4f2dNKXxZna/IT1UK2wIg26ROIbS7KuyhygddkDGIaIa5TTvLQin9FMHfU7jchHS+7L98ZDX9E7OCQg1MUgh+ypR8BUeXxUyUU3Z4XrwYLT5yqMUK2QGST0y4NCHva0F6Y2IwAnf2QsuYLQxYQN3nRyGa3b+s/iaDWdoSv3Dvg+0pP2QYTVps0Pt+2xI7kiM5IXCpQW1dUH20lZu267IG5jOlse9rJGWg=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119181826"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119183326"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119181924)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119181924)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119181924)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119181924)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119181924)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119181924)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119194346)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119194346)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119194346)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119194346)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119194346)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119194346)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119194529)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119194529)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119194529)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119194529)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119194529)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119194529)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119194529)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119194529)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119194529)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119194529)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119194529)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119194529)|(ACP_SDK_LOG)]=[txnTime-->20191119194529]
+[(20191119194529)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119194529)|(ACP_SDK_LOG)]=[payTimeout-->20191119200029]
+[(20191119194529)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119194529)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119194529)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119194529)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119194529)|(ACP_SDK_LOG)]=[add BC provider]
+[(20191119194529)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119194529)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119194529)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119194529)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119194529)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119194529)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119194529)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119194529)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119194529)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119194529)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119194529)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119194529)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119194529)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119194529)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119194529)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119194529)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119194529)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119194529)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119194529)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119194529)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119194529)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119194529)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119194529)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119194529)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119194529)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119194529)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119194529)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119194529)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119194529)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119194529)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119194531)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119194531)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119194531)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119194531)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119194531)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119194531)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119194531)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119194531)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119194531)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119194531)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119194531)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119194531)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119194531)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119194531)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=12345678&payTimeout=20191119200029&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119194529&txnType=01&version=5.1.0]]
+[(20191119194531)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[5114da42cbd47f200d287b08cbfe1ebba451e5c7f57215fc8af994495af548e9]]
+[(20191119194531)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="IVrN0mQanNUJs4FbNE0CwGSFvhbeFKt4T65haGT0RyFkDACwKF99D1uVNpJC6ym56NN9gSZouaZFRXRR6gd09rHRCztv86toB9khyMZzcjgMOvmlY2jpt6pcszMPrecqDzZ/P90BhA4o0THLd9hav4l0Q1yENpGvTXD694YO9f60yt8I9bjtdqQiMYx47FE9FKnHpa5Ux86zpp/JYoyR5g14+VxJl8XxQlkM6KgLwgPXnCWIrQV+iyrpLxEvFp6qimLFoYxonH61Yv4akLzbtHUViO5wuAxasb7KeKiVri8N0j0l3jwSNHNEVV6zKrrFF1FG0xZ3oyNCveN6ppMCEg=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119194529"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119200029"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119194620)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119194620)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119194620)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119194620)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[orderId] = [12345678]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[signature] = [avCGJCr6+EyKqPlVPmC4TK+ntJ9TdNpIw6rv1GS1GbCRo3FsXeDBd126fHTLD8MxuR6VH8CLwNi1GYk4zAHhP+g//V8VXCXW6+XfgzNnYEbUA5CvPkxB8wA2EvuELJsincwuu6t3WjOlFkCUz58WbADYQo2oTQ5H4zRoNcUVoNM31jX2whddvumES88a9xy0jLAwB6068KkRCyICQ2F0DAxoQIDDWVJlG10mbhnLFdPzm9z2KLR01hN40V1uI79XhwdhKxRZVZodNwQ94l90bTlT+YTBB744GkdWjlywpuTEAqx+p3ZTkzmTsCUp77dhHZCeIdN5d61C9EIsE0gG/Q==]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[traceNo] = [776002]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[queryId] = [471911191945297760028]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[traceTime] = [1119194529]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[txnTime] = [20191119194529]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119194620)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119194620)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119194620)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119194621)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119194621)|(ACP_SDK_LOG)]=[签名原文：[avCGJCr6+EyKqPlVPmC4TK+ntJ9TdNpIw6rv1GS1GbCRo3FsXeDBd126fHTLD8MxuR6VH8CLwNi1GYk4zAHhP+g//V8VXCXW6+XfgzNnYEbUA5CvPkxB8wA2EvuELJsincwuu6t3WjOlFkCUz58WbADYQo2oTQ5H4zRoNcUVoNM31jX2whddvumES88a9xy0jLAwB6068KkRCyICQ2F0DAxoQIDDWVJlG10mbhnLFdPzm9z2KLR01hN40V1uI79XhwdhKxRZVZodNwQ94l90bTlT+YTBB744GkdWjlywpuTEAqx+p3ZTkzmTsCUp77dhHZCeIdN5d61C9EIsE0gG/Q==]]
+[(20191119194621)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=12345678&payCardType=01&payType=0001&queryId=471911191945297760028&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=776002&traceTime=1119194529&txnAmt=10900&txnSubType=01&txnTime=20191119194529&txnType=01&version=5.1.0]]
+[(20191119194621)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119194621)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119194622)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回结束]
+[(20191119194648)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119194648)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119194648)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119194648)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[orderId] = [12345678]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[signature] = [avCGJCr6+EyKqPlVPmC4TK+ntJ9TdNpIw6rv1GS1GbCRo3FsXeDBd126fHTLD8MxuR6VH8CLwNi1GYk4zAHhP+g//V8VXCXW6+XfgzNnYEbUA5CvPkxB8wA2EvuELJsincwuu6t3WjOlFkCUz58WbADYQo2oTQ5H4zRoNcUVoNM31jX2whddvumES88a9xy0jLAwB6068KkRCyICQ2F0DAxoQIDDWVJlG10mbhnLFdPzm9z2KLR01hN40V1uI79XhwdhKxRZVZodNwQ94l90bTlT+YTBB744GkdWjlywpuTEAqx+p3ZTkzmTsCUp77dhHZCeIdN5d61C9EIsE0gG/Q==]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[traceNo] = [776002]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[queryId] = [471911191945297760028]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[traceTime] = [1119194529]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[txnTime] = [20191119194529]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119194648)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119194648)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119194648)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119194648)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119194648)|(ACP_SDK_LOG)]=[签名原文：[avCGJCr6+EyKqPlVPmC4TK+ntJ9TdNpIw6rv1GS1GbCRo3FsXeDBd126fHTLD8MxuR6VH8CLwNi1GYk4zAHhP+g//V8VXCXW6+XfgzNnYEbUA5CvPkxB8wA2EvuELJsincwuu6t3WjOlFkCUz58WbADYQo2oTQ5H4zRoNcUVoNM31jX2whddvumES88a9xy0jLAwB6068KkRCyICQ2F0DAxoQIDDWVJlG10mbhnLFdPzm9z2KLR01hN40V1uI79XhwdhKxRZVZodNwQ94l90bTlT+YTBB744GkdWjlywpuTEAqx+p3ZTkzmTsCUp77dhHZCeIdN5d61C9EIsE0gG/Q==]]
+[(20191119194648)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=12345678&payCardType=01&payType=0001&queryId=471911191945297760028&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=776002&traceTime=1119194529&txnAmt=10900&txnSubType=01&txnTime=20191119194529&txnType=01&version=5.1.0]]
+[(20191119194648)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119194648)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119194648)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回结束]
+[(20191119195205)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119195205)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119195205)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119195205)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119195205)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119195205)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119195205)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119195205)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119195205)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119195205)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119195205)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119195205)|(ACP_SDK_LOG)]=[txnTime-->20191119195205]
+[(20191119195205)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119195205)|(ACP_SDK_LOG)]=[payTimeout-->20191119200705]
+[(20191119195205)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119195205)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119195205)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119195205)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119195205)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=12345678&payTimeout=20191119200705&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119195205&txnType=01&version=5.1.0]]
+[(20191119195205)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[15a85348b2e8122ee473650eac5ab0989f075fe4aa83c86c97599d020c762d8a]]
+[(20191119195205)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="aOV/nttuTxjWcYq9rBtxVfO/oFlWwqyXrpTOSMRa3XwBVbMp6jeqhVNgTBcpXAhVvoR1yhPOekKvxj9QyaQLyVJx1rKZMeAdJbDkRJVOQa++I2RrAxZQnsZFPlVbkraflRmB7IuqJW9aDuF68rdXakxVS1oLFb9YrvW7m8HbqG3k2rH/mVVFSYzvzH/5lsPCVPNV3wkVGQzabzYfTRIs+2hezAUWy4+SuWLucGzck29ku9WI5KT7gps/JmYzV49YEc+5TiPgB034r7w1zBOY3KjsZNXNWtdNQyWi/ggdYESjT/Jga8IcH3w9DlGW/klfUhr9QDgSA5e+j2Sq0iA6qQ=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119195205"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119200705"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119195227)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119195227)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119195227)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119195227)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119195227)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119195227)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119195227)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119195227)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119195227)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119195227)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119195227)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119195227)|(ACP_SDK_LOG)]=[txnTime-->20191119195227]
+[(20191119195227)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119195227)|(ACP_SDK_LOG)]=[payTimeout-->20191119200727]
+[(20191119195227)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119195227)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119195227)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119195227)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119195227)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=12345678&payTimeout=20191119200727&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119195227&txnType=01&version=5.1.0]]
+[(20191119195227)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[cd2b62e5ab00cab017a7c3796c54e45f7f32d8b1e1c25d35b77d81d0448248ff]]
+[(20191119195227)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="XlJxOthcbvybWUXAo1sW+MeS29ONapURvU2udesygjq7bjU4PWn4mxFM3zdnQzeSwUCuH1l1fE1ytdyoAjMjWe4hrdiPi9CkMFjOzhoNb7BmnzYJ+1Ws+foM5SHwvEEqTQT4Eq18vkVU+mKN0oKxIPWFdOzkevfDjWe+bMNGzulj+nCsdR22sX5r2QtIDDP9HEOPl3bAdx89dAAVBzGO6+jUfpinYumTc99E9xUihIZ+ZAb7LSGoXMu6pCoAOuzQc8HWC098letnciqxUhF4IUoHdI/Tdb91/JzTbA/jxFKt6u9ZlVrQgzJvIEBNXtTyUIkh6FRucoTnb8Pi+/XBJw=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119195227"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119200727"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119195339)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119195339)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119195339)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119195339)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119195339)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119195339)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119195344)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119195344)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119195344)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119195344)|(ACP_SDK_LOG)]=[orderId-->123456789]
+[(20191119195344)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119195344)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119195344)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119195344)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119195344)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119195344)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119195344)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119195344)|(ACP_SDK_LOG)]=[txnTime-->20191119195344]
+[(20191119195344)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119195344)|(ACP_SDK_LOG)]=[payTimeout-->20191119200844]
+[(20191119195344)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119195344)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119195344)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119195344)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119195345)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119195345)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119195345)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119195345)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119195345)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119195345)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119195345)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119195345)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119195345)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119195345)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119195345)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119195345)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119195345)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119195345)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119195345)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119195345)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119195345)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119195345)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119195345)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119195345)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119195345)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119195345)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119195345)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119195345)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119195345)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119195345)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119195345)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119195345)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119195345)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119195345)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119195345)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119195345)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119195345)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119195345)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119195345)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119195345)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119195345)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119195345)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119195345)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119195345)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119195345)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119195345)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119195345)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119195345)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119195345)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=123456789&payTimeout=20191119200844&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119195344&txnType=01&version=5.1.0]]
+[(20191119195345)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[47c2eae66a0af17152f5c87386136bdc1deba6e2b5db9de0882a17d16d1b37d3]]
+[(20191119195345)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="123456789"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="MUe3VQFgClzUb1f3fwJiR7hHH+IZc4uPGIX/Qg7R6dc/MGoWW4YbupTWBjohutTULzuEWrnLGDbQGaYXtLdik8TY1Ai5F209NNuyvUVJMfIM7gRETfUS4QaUaQgT+UmWexflZt+5nEXN0I+bthd4arKGpvZvfsVTVuV99/y9avdMbQWbiTn5ipLrClyNiIyoDQxSutRIDHathrczw5KunlC9bXHoyKnqgN4zqTkE8lN24kf+vpbCdTB4EVkEVA31ngzrI/zluzt/pDbeGBbxXozvg6oIdT2WbcO8D63zXJ5cRHHp9XjmVQFYJvuhpL2vDXW9gDX2LdTg2G5FbaxYfg=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119195344"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119200844"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119195523)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119195523)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119195523)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119195523)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119195523)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119195523)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119195605)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119195605)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119195605)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119195605)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119195605)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119195605)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119195636)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119195636)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119195636)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119195636)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119195636)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119195636)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119195701)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119195701)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119195701)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119195701)|(ACP_SDK_LOG)]=[orderId-->1234567890]
+[(20191119195701)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119195701)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119195701)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119195701)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119195701)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119195701)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119195701)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119195701)|(ACP_SDK_LOG)]=[txnTime-->20191119195701]
+[(20191119195701)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119195701)|(ACP_SDK_LOG)]=[payTimeout-->20191119201201]
+[(20191119195701)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119195701)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119195701)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119195701)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119195701)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119195701)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119195701)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119195701)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119195701)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119195701)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119195701)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119195701)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119195701)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119195701)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119195701)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119195701)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119195701)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119195701)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119195701)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119195701)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119195701)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119195701)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119195701)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119195701)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119195701)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119195701)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119195701)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119195701)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119195701)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119195701)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119195701)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119195701)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119195701)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119195701)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119195701)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119195701)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119195701)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119195701)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119195701)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119195701)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119195701)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119195701)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119195701)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119195701)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119195701)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119195701)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119195701)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119195701)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119195701)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=1234567890&payTimeout=20191119201201&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119195701&txnType=01&version=5.1.0]]
+[(20191119195701)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[ef2c751a1c2b3b526dbc2a9db3d3438e0438a85fcbebace8ec96ebacbe4e3a2a]]
+[(20191119195701)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="1234567890"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="L6cMbeO38uBTOWOCEsrNxe5xE+ENg+KhcFhVI+uM8qVcXC8m7SNirmCI7cefmX4uf7RF6gs4d9F6+qvdt6WTIujnlPbC/QeQINdy1cKYabbOSgrC16Ms7g0b6WqUD1sE77ZdBuXd5vHVGMCLfrBmH80vAn05GsJE7YxaPo+6a8z3ZJh8Nm+N2fK40RAB0JlqGrKvdWs5LfCaaYGdhYcQbbfJZaTwK98MjteJbx9YjFcmKa/06B0CnoxYWEfYYBxFqvWdw/HPjhdmOd7LSgBDn4T4cer701XBkcrsSI645mFXrJXX/bMRAM76LHFGAweXwuB1IumlnUSw/2h0dPICvQ=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119195701"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119201201"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119195759)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119195759)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119195759)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119195759)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119195759)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119195759)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119195811)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119195811)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119195811)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119195811)|(ACP_SDK_LOG)]=[orderId-->12345678900]
+[(20191119195811)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119195811)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119195811)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119195811)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119195811)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119195811)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119195811)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119195811)|(ACP_SDK_LOG)]=[txnTime-->20191119195811]
+[(20191119195811)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119195811)|(ACP_SDK_LOG)]=[payTimeout-->20191119201311]
+[(20191119195811)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119195811)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119195811)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119195811)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119195812)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119195812)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119195812)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119195812)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119195812)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119195812)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119195812)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119195812)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119195812)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119195812)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119195812)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119195812)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119195812)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119195812)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119195812)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119195812)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119195812)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119195812)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119195812)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119195812)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119195812)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119195812)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119195812)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119195812)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119195812)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119195812)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119195812)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119195812)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119195812)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119195812)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119195812)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119195812)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119195812)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119195812)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119195812)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119195812)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119195812)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119195812)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119195812)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119195812)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119195812)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119195812)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119195812)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119195812)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119195812)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=12345678900&payTimeout=20191119201311&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119195811&txnType=01&version=5.1.0]]
+[(20191119195812)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[d471098b9206675b656c3df585f20e1566d498ed63e0406bc20dbf41ddf6e195]]
+[(20191119195812)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678900"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="V5UJH5acvs3BQb59CY0tgMavui3m5WswX6o5hlc2IpiwcuAXg8oboLFeni5kuu/wn8fBWPVVyIG8BiT/EwFUBgZz3JY1nC5/BoHEgwzV7RQHmOg0vmXnwYXHDTan9L1QktD8xpItiwrjcyMOS/REY0OdYG/R0wvxiJ4FdDS33YYgVMkxFYFQp7URR8+PyCY5Ge4voLWNPLGc88Kl7V5JCuK42ny1oQKAKNpXmgh3/s7h8q/uR1qucYwXpazmaLg7WNmIlaYhfcAQYOF6Bxih+jJzTmETJEuk/K9VxkbugaBZKXgRXJPD0s4Ev4cV2aOMMRNY384OCfUvPW025phOgw=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119195811"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119201311"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119200033)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119200033)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119200033)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119200033)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[orderId] = [12345678900]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[signature] = [Rb8a8WUC4coajKqMFMEMXdA3j66d2jTJg/YqQIC6u80/zn780qzc6vY3mZSx0swcsHied2ouCGCqu1V40NKmwelIvXYNZ6R9LuYDMYyjlLblJLrOsMPAYDxhHe1lrqelCEMBsL03Er8SmrGoM1Ot3y5bCl6sW4FxkOn8SPwuenXIfDO83Pdmp6+DyUiiYm7QeXuYshyTpGDySsrF1iHteBi1VYtlUP6VCFV+sWjSfKhGDNzqt2+eh8lldmQ9T0GCqJ6wkhVp21fVHqtsV4xk6Bi0SvoWt9EP3sacneSOvwc6n7p8d35CEDHT35jIitZ7sqdiFk4BqWCpuLfMzHT8jQ==]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[traceNo] = [829750]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[queryId] = [161911191958118297508]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[traceTime] = [1119195811]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[txnTime] = [20191119195811]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119200033)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119200033)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119200033)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119200033)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119200033)|(ACP_SDK_LOG)]=[签名原文：[Rb8a8WUC4coajKqMFMEMXdA3j66d2jTJg/YqQIC6u80/zn780qzc6vY3mZSx0swcsHied2ouCGCqu1V40NKmwelIvXYNZ6R9LuYDMYyjlLblJLrOsMPAYDxhHe1lrqelCEMBsL03Er8SmrGoM1Ot3y5bCl6sW4FxkOn8SPwuenXIfDO83Pdmp6+DyUiiYm7QeXuYshyTpGDySsrF1iHteBi1VYtlUP6VCFV+sWjSfKhGDNzqt2+eh8lldmQ9T0GCqJ6wkhVp21fVHqtsV4xk6Bi0SvoWt9EP3sacneSOvwc6n7p8d35CEDHT35jIitZ7sqdiFk4BqWCpuLfMzHT8jQ==]]
+[(20191119200033)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=12345678900&payCardType=01&payType=0001&queryId=161911191958118297508&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=829750&traceTime=1119195811&txnAmt=10900&txnSubType=01&txnTime=20191119195811&txnType=01&version=5.1.0]]
+[(20191119200033)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119200033)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119200033)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回结束]
+[(20191119200301)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119200301)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119200301)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119200301)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119200301)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119200301)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119200309)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119200309)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119200309)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119200309)|(ACP_SDK_LOG)]=[orderId-->1234567890]
+[(20191119200309)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119200309)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119200309)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119200309)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119200309)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119200309)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119200309)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119200309)|(ACP_SDK_LOG)]=[txnTime-->20191119200309]
+[(20191119200309)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119200309)|(ACP_SDK_LOG)]=[payTimeout-->20191119201809]
+[(20191119200309)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119200309)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119200309)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119200309)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119200309)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119200309)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119200309)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119200309)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119200309)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119200309)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119200309)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119200309)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119200309)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119200309)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119200309)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119200309)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119200309)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119200309)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119200309)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119200309)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119200309)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119200309)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119200309)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119200309)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119200309)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119200309)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119200309)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119200309)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119200309)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119200309)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119200309)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119200309)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119200309)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119200309)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119200309)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119200309)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119200309)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119200309)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119200309)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119200309)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119200309)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119200309)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119200309)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119200309)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119200309)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119200309)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119200309)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119200309)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119200309)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=1234567890&payTimeout=20191119201809&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119200309&txnType=01&version=5.1.0]]
+[(20191119200309)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[d87ab78ef7cb0857e62279006cb53c71c12d0040a6fcc2312525d6f4a8b406c1]]
+[(20191119200309)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="1234567890"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="XD7329QXH5yjCV4fmWQt/JRiPHpEJ+9/STaT0YRZhuxOyKW69hYKLuaQZx4jiNRq1jE8h+J7jqlJnD0GpQNV94L7YOBKShZeKBBomCDs68HJor1gUsddgM1q3ikh/zGJ/QbRRw9bXIcBjfc87je1b+51u2or2J3rcCHPyL6v9mzrV16I0axhVkYxU6pEhnl9lNywzD9GN/NB/V5p9eX+OyS7VGZQtrKTpC321/oBhAb9xDu38N2iBLSWVVMu3Gz5LLTrcAW5DP6M4Tgr+s/cpPFDqVAo0QpOZ3Ro7RGNyUiyji3g/ziAQDDjIziAtjIuB0FQ2p3EAdD2SN33IXb6rA=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119200309"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119201809"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119200640)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119200640)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119200640)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119200640)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[orderId] = [1234567890]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[signature] = [F0yNicnirRuWINN7ksEZZFaxnmhROv8Ys/LSsIJkjhEj6u/A4CgBAhHA+z8ikWzUa42ImYMG0VoQsmyQyCgGl/5DbEzniUxwDg5PL/oigCV8dPTXYbb9j2+Bqm7wrjp5eVZ4X+NMHZ+6dgexwXh/+nLyD36HOFDvmCS+fQXZTwTZncu8E3SqlZJeyz3YmgYc3NlimQxVP+QVEDkMdt0H3m3iZzF44PP1+PvQrR6vdK7MlwcYq5JavTeRm8i1bGGUJt3WuwEwMAx81IdazULHhjBAjW1eTva+eqNuA5N2GUTTQs3xeugp3e/mluLIbSKNa+qmnVtBDlmNW1niaIP1Mg==]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[traceNo] = [896501]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[queryId] = [971911192003098965018]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[traceTime] = [1119200309]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[txnTime] = [20191119200309]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119200640)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119200640)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119200640)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119200640)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119200640)|(ACP_SDK_LOG)]=[签名原文：[F0yNicnirRuWINN7ksEZZFaxnmhROv8Ys/LSsIJkjhEj6u/A4CgBAhHA+z8ikWzUa42ImYMG0VoQsmyQyCgGl/5DbEzniUxwDg5PL/oigCV8dPTXYbb9j2+Bqm7wrjp5eVZ4X+NMHZ+6dgexwXh/+nLyD36HOFDvmCS+fQXZTwTZncu8E3SqlZJeyz3YmgYc3NlimQxVP+QVEDkMdt0H3m3iZzF44PP1+PvQrR6vdK7MlwcYq5JavTeRm8i1bGGUJt3WuwEwMAx81IdazULHhjBAjW1eTva+eqNuA5N2GUTTQs3xeugp3e/mluLIbSKNa+qmnVtBDlmNW1niaIP1Mg==]]
+[(20191119200640)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=1234567890&payCardType=01&payType=0001&queryId=971911192003098965018&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=896501&traceTime=1119200309&txnAmt=10900&txnSubType=01&txnTime=20191119200309&txnType=01&version=5.1.0]]
+[(20191119200640)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119200640)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119200640)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回结束]
+[(20191119200845)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119200845)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119200845)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119200845)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119200845)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119200845)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119200856)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119200856)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119200856)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119200856)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119200856)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119200856)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119200903)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119200903)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119200903)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119200903)|(ACP_SDK_LOG)]=[orderId-->123456789]
+[(20191119200903)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119200903)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119200903)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119200903)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119200903)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119200903)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119200903)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119200903)|(ACP_SDK_LOG)]=[txnTime-->20191119200903]
+[(20191119200903)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119200903)|(ACP_SDK_LOG)]=[payTimeout-->20191119202403]
+[(20191119200903)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119200903)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119200903)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119200903)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119200903)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119200903)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119200903)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119200903)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119200903)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119200903)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119200903)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119200903)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119200903)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119200903)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119200903)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119200903)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119200903)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119200903)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119200903)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119200903)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119200903)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119200903)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119200903)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119200903)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119200903)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119200903)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119200903)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119200903)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119200903)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119200903)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119200903)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119200903)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119200903)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119200903)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119200903)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119200904)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119200904)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119200904)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119200904)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119200904)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119200904)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119200904)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119200904)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119200904)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119200904)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119200904)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119200904)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119200904)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119200904)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=123456789&payTimeout=20191119202403&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119200903&txnType=01&version=5.1.0]]
+[(20191119200904)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[736e4b05cf364efb2b6e4586112479cd2ea083e7f8f415f57e752ba6ac692834]]
+[(20191119200904)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="123456789"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="bBEKoiTY7ZG8QE9ewcieKkkWuiWYSrz6XXooUSN1G4oiMQ5dyJSn1tQf8PbzXzDIJfebhgZuYJggMFAGd6SZ+jqj8RQ7Oyho+FNHwwSdLXY/sCuVLI1yB8/LtxnEiP4D7DXJtQqYfws3jTuVyXWgVlQzgFbg1SErj4CwtvCvefhjH3gs/8MXcmqGjEqlKv08+aP+PzRnyqC8ONKp9vHx2PnbLVuDeUmiZYK09rMsMC9Hlf0GlhHDUHEUOyjmaqi29fgJdSMWON9W7+G1ea6/NsN1+fpcWhcZdOHbxC9AvdzoIWwk+rXaOMEZSREwGH71eQPGuVlCifbtBIOy6X70RA=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119200903"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119202403"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119200926)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119200926)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119200926)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119200926)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[orderId] = [123456789]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[signature] = [S8QN6qgnH0ddIW/EMyl5AJoSKQPufIh6t9jxig5gUV+wBsZatiB05o5GOGYaSk/YSNxqwPZapng28Z641T8AEh19SYvanVQirLurRuzw6CqkSGAeHwPvm6rjI/i+GgNssgRwmOIr9UKJc/zBoUCJUoAm6gpXJhRcEUZ7J7NlYJOzdWWzbwWuwWin2yBqYi1UX449t+k2hCD4r39mdSZlK+n8gZXgJ+Ikj69TfLQ9+xfUO7bMIRu6mr+AOAE6THnUGorCD0zcStXxjgQLey9a3nt0S94mVuNeuG+dj2KrHx0R9Z9MkI+5Aq+pacofnU5RwT7vd3iz9sMHT6oIjA1+6g==]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[traceNo] = [897751]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[queryId] = [681911192009038977518]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[traceTime] = [1119200903]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[txnTime] = [20191119200903]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119200926)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119200926)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119200926)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119200926)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119200926)|(ACP_SDK_LOG)]=[签名原文：[S8QN6qgnH0ddIW/EMyl5AJoSKQPufIh6t9jxig5gUV+wBsZatiB05o5GOGYaSk/YSNxqwPZapng28Z641T8AEh19SYvanVQirLurRuzw6CqkSGAeHwPvm6rjI/i+GgNssgRwmOIr9UKJc/zBoUCJUoAm6gpXJhRcEUZ7J7NlYJOzdWWzbwWuwWin2yBqYi1UX449t+k2hCD4r39mdSZlK+n8gZXgJ+Ikj69TfLQ9+xfUO7bMIRu6mr+AOAE6THnUGorCD0zcStXxjgQLey9a3nt0S94mVuNeuG+dj2KrHx0R9Z9MkI+5Aq+pacofnU5RwT7vd3iz9sMHT6oIjA1+6g==]]
+[(20191119200926)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=123456789&payCardType=01&payType=0001&queryId=681911192009038977518&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=897751&traceTime=1119200903&txnAmt=10900&txnSubType=01&txnTime=20191119200903&txnType=01&version=5.1.0]]
+[(20191119200926)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119200926)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119201328)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119201328)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119201328)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119201328)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119201328)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119201328)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119201333)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119201333)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119201333)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119201333)|(ACP_SDK_LOG)]=[orderId-->123456780]
+[(20191119201333)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119201333)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119201333)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119201333)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119201333)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119201333)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119201333)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119201333)|(ACP_SDK_LOG)]=[txnTime-->20191119201333]
+[(20191119201333)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119201333)|(ACP_SDK_LOG)]=[payTimeout-->20191119202833]
+[(20191119201333)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119201333)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119201333)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119201333)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119201333)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119201333)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119201333)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119201333)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119201333)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119201333)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119201333)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119201333)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119201333)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119201333)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119201333)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119201333)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119201333)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119201333)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119201333)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119201333)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119201333)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119201333)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119201333)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119201333)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119201333)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119201333)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119201333)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119201333)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119201333)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119201333)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119201333)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119201333)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119201333)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119201333)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119201333)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119201334)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119201334)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119201334)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119201334)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119201334)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119201334)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119201334)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119201334)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119201334)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119201334)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119201334)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119201334)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119201334)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119201334)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=123456780&payTimeout=20191119202833&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119201333&txnType=01&version=5.1.0]]
+[(20191119201334)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[466ce7e4a130a9c2127800661bbe283623989124d9d8727319368fb3286b4689]]
+[(20191119201334)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="123456780"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="Y/56rRpIY2c36TOVaL/aLNjJsEFOZ3bjzDX0z7VmUI1Ypxx72aECS4YIO9EdgX87cs+7PgFAXAQsIcIMP079SV4Ke7BShopjrp3CY6DbZsQCN/PkyqCCsWt86CfdKUxvWx6yEWzTQijaTHw+Rcnmm4tFPm/ev0P8/iOJ54JiszPQtaV5HBarhU7dlgmoY5ze36z92WEacQPHmlylX5piGrz/z3d+4bzYJH3oJ6fdhLnu+q33UAcjFaTKJ6EsezATJ1xigjAV1hy1RWlHsRFKzvktsbGgs+0dXwGkLddCIhtdm9ivMm+OrgiuVS7vJ/28tWe2bVyPCWArC2uw8YO4ew=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119201333"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119202833"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119201359)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119201359)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119201359)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119201359)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[orderId] = [123456780]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[signature] = [eiifF1OaNmeWEeRyxobTHwl+7CDKEbDMud62O7jeBlWwaAZ6fprUw9bC6n1/wcM2bi9fbuDEPyhBwjUBnXxNNsm2flR6t4jhNWz905V4Sh3OrLzVw+5fbfIwGTxI/lN+Ir8cCCPpV/GKqs6415fI1DXJGnHNM8ThjXlHbKgyM76CtB9tLXs6ftf89UgxbwBM9es/bcI5l5WpLXkjlUm4eYCqJRk9omBOPRdGx335a80nkVE3/7hzcvjehOxUAOTAyzHshmwkqTmOkajfoWnNCY+WoTISTMFV9i8m6kWDcxMaECuJgQf6gHDGyAHtkknDT2zpVldk0QjWieCNLJtOLQ==]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[traceNo] = [781127]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[queryId] = [431911192013337811278]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[traceTime] = [1119201333]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[txnTime] = [20191119201333]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119201359)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119201359)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119201359)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119201359)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119201359)|(ACP_SDK_LOG)]=[签名原文：[eiifF1OaNmeWEeRyxobTHwl+7CDKEbDMud62O7jeBlWwaAZ6fprUw9bC6n1/wcM2bi9fbuDEPyhBwjUBnXxNNsm2flR6t4jhNWz905V4Sh3OrLzVw+5fbfIwGTxI/lN+Ir8cCCPpV/GKqs6415fI1DXJGnHNM8ThjXlHbKgyM76CtB9tLXs6ftf89UgxbwBM9es/bcI5l5WpLXkjlUm4eYCqJRk9omBOPRdGx335a80nkVE3/7hzcvjehOxUAOTAyzHshmwkqTmOkajfoWnNCY+WoTISTMFV9i8m6kWDcxMaECuJgQf6gHDGyAHtkknDT2zpVldk0QjWieCNLJtOLQ==]]
+[(20191119201359)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=123456780&payCardType=01&payType=0001&queryId=431911192013337811278&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=781127&traceTime=1119201333&txnAmt=10900&txnSubType=01&txnTime=20191119201333&txnType=01&version=5.1.0]]
+[(20191119201359)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119201359)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119201441)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119201441)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119201441)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119201441)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119201441)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119201441)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119201512)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119201512)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119201512)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119201512)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119201512)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119201512)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119201514)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119201514)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119201514)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119201514)|(ACP_SDK_LOG)]=[orderId-->12345678]
+[(20191119201514)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119201514)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119201514)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119201514)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119201514)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119201514)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119201514)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119201514)|(ACP_SDK_LOG)]=[txnTime-->20191119201514]
+[(20191119201514)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119201514)|(ACP_SDK_LOG)]=[payTimeout-->20191119203014]
+[(20191119201514)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119201514)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119201514)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119201514)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119201514)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119201514)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119201514)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119201514)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119201514)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119201514)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119201514)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119201514)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119201514)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119201514)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119201514)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119201514)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119201514)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119201514)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119201514)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119201514)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119201514)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119201514)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119201514)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119201514)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119201514)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119201514)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119201514)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119201514)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119201514)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119201514)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119201514)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119201514)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119201514)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119201514)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119201514)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119201514)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119201514)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119201514)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119201514)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119201514)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119201514)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119201514)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119201514)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119201514)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119201514)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119201514)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119201514)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119201514)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119201514)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=12345678&payTimeout=20191119203014&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119201514&txnType=01&version=5.1.0]]
+[(20191119201514)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[7ddf83f9dab1e698d774877da4f9d57aa2b9c18581a377f91059595f485f8763]]
+[(20191119201514)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="12345678"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="R2YFfDwsR8hXIw/ibLnLqnfrGGxoR5t82TwxWzfj0C2Tc3Rcmwnw9apmYsiIHGGECNWwNF/If5zGVl6AA2/fdzYENFyVD5iwAg4Rb+BqzFGf8jXA+lmzTvNn9bQOnn7uZxhhFst5fYGb9Pu/Kb8i/tUpi0t8o6woFMUiyemwjlQpdQXuqhaTuDq5dOj9bzsy9hp7neWFtaZqlpo35TaL3Ob0u/AFB+oa/VgZu/DCvIJBPluqCPjNIMRfYYUec/7zdFqcj+p+AurCyLCAKXU18x0Akvs5DaE5b8V9x5qJLE7gOC+O1mWDo6+j13x2EXb5YYWTObLGu8mcbqP/5WpjeA=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119201514"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119203014"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119201533)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119201533)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119201533)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119201533)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119201533)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119201533)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119201544)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119201544)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119201544)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119201544)|(ACP_SDK_LOG)]=[orderId-->1234567802]
+[(20191119201544)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119201544)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119201544)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119201544)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119201544)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119201544)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119201544)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119201544)|(ACP_SDK_LOG)]=[txnTime-->20191119201544]
+[(20191119201544)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119201544)|(ACP_SDK_LOG)]=[payTimeout-->20191119203044]
+[(20191119201544)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119201544)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119201544)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119201544)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119201545)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119201545)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119201545)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119201545)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119201545)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119201545)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119201545)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119201545)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119201545)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119201545)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119201545)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119201545)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119201545)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119201545)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119201545)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119201545)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119201545)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119201545)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119201545)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119201545)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119201545)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119201545)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119201545)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119201545)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119201545)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119201545)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119201545)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119201545)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119201545)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119201545)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119201545)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119201545)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119201545)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119201545)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119201545)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119201545)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119201545)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119201545)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119201545)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119201545)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119201545)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119201545)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119201545)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119201545)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119201545)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=1234567802&payTimeout=20191119203044&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119201544&txnType=01&version=5.1.0]]
+[(20191119201545)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[1686721579dd752b8a56a24316affc7ed639366572b2a7aadb5c88e4371af109]]
+[(20191119201545)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="1234567802"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="uJJGlfQhZlnagDVz1gKwaU09JgrUNvVjKCBI2MWge3S6k2rcyL53N+F3ool+xtakkW/6lH1fBoD7oAxLWUPdF9uWOmTyAukEzueItRpwZDtMwbHJwO/bvx98qHzfejUMIvzeBOEFy8DGJqxDkOnnkXZ6uZI/P+9kkJffGCVxuDwjKrMSDAGOUhi7OVVj1GDWH/W5/g7/GO8tuVTOL0AdhpVc/pnvWK9MnRQ/PBhuWgb6myTd+qs7nm9/OeMeO6Fq+46HbH4HjSlCiI1Xg9vcxkbmRi13t/x/pqgTWAchvaxWDYPtmF2BTHmvM/RbvUMXxfQtpDHvnqy/tEG2sSCO1A=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119201544"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119203044"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119201612)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119201612)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119201612)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119201612)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[orderId] = [1234567802]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[signature] = [Dcga+hXxcO4vPC52tb2UyikQcLyGIhG+VP+c2oRc2i3xgRBDPE8hUOwz5kJgRQXoBGCR0XDwbCleFkJ9fAnnOFtOvDG+BFbfbR3ixu557F12sj+9wrySV476UFqI/jw586LWWWSOApnqColm8JNvp3w3K4Jigah1y3lICZM+vq27ZmqPLQK2CqXaL6HoK/oKyZQKLvyYfwGn/kni66z24wOodmquSWJsEu8L+b8/tg/zx12QFuPEGcxym3VV/xVyigKxOkjPqqFt8ygiqQc+SVeuJDkGcWmhjXGlPNpYjsRzRFN9xooB6Z9HbXI6bh8SwEbuYjlXyNFnOvg14lyJZA==]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[traceNo] = [941878]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[queryId] = [691911192015449418788]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[traceTime] = [1119201544]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[txnTime] = [20191119201544]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119201612)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119201612)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119201612)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119201612)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119201612)|(ACP_SDK_LOG)]=[签名原文：[Dcga+hXxcO4vPC52tb2UyikQcLyGIhG+VP+c2oRc2i3xgRBDPE8hUOwz5kJgRQXoBGCR0XDwbCleFkJ9fAnnOFtOvDG+BFbfbR3ixu557F12sj+9wrySV476UFqI/jw586LWWWSOApnqColm8JNvp3w3K4Jigah1y3lICZM+vq27ZmqPLQK2CqXaL6HoK/oKyZQKLvyYfwGn/kni66z24wOodmquSWJsEu8L+b8/tg/zx12QFuPEGcxym3VV/xVyigKxOkjPqqFt8ygiqQc+SVeuJDkGcWmhjXGlPNpYjsRzRFN9xooB6Z9HbXI6bh8SwEbuYjlXyNFnOvg14lyJZA==]]
+[(20191119201612)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=1234567802&payCardType=01&payType=0001&queryId=691911192015449418788&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=941878&traceTime=1119201544&txnAmt=10900&txnSubType=01&txnTime=20191119201544&txnType=01&version=5.1.0]]
+[(20191119201612)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119201612)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119202024)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119202024)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119202024)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119202024)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119202024)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119202024)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119202045)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119202045)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119202045)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119202045)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119202045)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119202045)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119202053)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119202053)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119202053)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119202053)|(ACP_SDK_LOG)]=[orderId-->1234567801]
+[(20191119202053)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119202053)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119202053)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119202053)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119202053)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119202053)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119202053)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119202053)|(ACP_SDK_LOG)]=[txnTime-->20191119202053]
+[(20191119202053)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119202053)|(ACP_SDK_LOG)]=[payTimeout-->20191119203553]
+[(20191119202053)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119202053)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119202053)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119202053)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119202053)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119202053)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119202053)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119202053)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119202053)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119202053)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119202053)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119202053)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119202053)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119202053)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119202053)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119202053)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119202053)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119202053)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119202053)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119202053)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119202053)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119202053)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119202053)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119202053)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119202053)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119202053)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119202053)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119202053)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119202053)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119202053)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119202053)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119202053)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119202053)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119202053)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119202053)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119202053)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119202053)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119202053)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119202053)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119202053)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119202053)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119202053)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119202053)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119202053)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119202053)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119202053)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119202053)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119202053)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119202053)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=1234567801&payTimeout=20191119203553&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119202053&txnType=01&version=5.1.0]]
+[(20191119202053)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[cecfda4d8c247f8a0e77d55e7c45482ae9ee1913b6d1a1afec4c7f2377cdeba6]]
+[(20191119202053)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="1234567801"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="kjik6bekighDNN0bu5TxVcwZgH7fWUrxQ57DGLsPQ4b5+s6PJiRFTHeROLXYTdp2wPjcTcfyQ7Eb1oiMVf3nP2uBYLQAOdUn8aumxklK6ylyZ0PsKxbPBJg0Ta0aLEs3tQlTw/2IOxHEduvbx34kXfSGQFWc0mEBpUEAD7TIRT7nV0y2mC4qkxZkaYMRtfRJ0OseJTFVgxIjW3ollRh6aeGL7YhvRgW0JZMn/5up5GSY6SJPvmg8xhI3JwDvFoAl+iXciLFHKoewmQW3dnD29XLn3sERfxmZ3c/8KoL6G3jFEVKvR41j1ucjc2GI4IEpAkplv9eVQSWCO0PmAPPWUw=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119202053"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119203553"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119202115)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119202115)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119202115)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119202115)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[orderId] = [1234567801]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[signature] = [RtAbDNN/2QxeBm0/EOzik/NY7AfbyKD+uFo4/m5kiux9Y5NuIZUzNeKXHwtLj8KpI+njc6ymVePUIRNJQlziQNEgokXT7lmgvO6ZyoxECogy3QAk7LwlEwq8ebAS6jHsXpxAsdHr9MTyg8FthqSYAkE1g8Zwi6s0ZBNLBVXxbOpkCw0U3r7MPWEnfGcVO6uk+/1TWwoh3KuMdWtExPlEOGaJ/NUmYBo2wlfoM2ppWSVHGybiKfjkfz7biWB6G6gOqvYQfkjdvIXo6kpl8X2uVICm2JlDbMXhwd1zf+qFesOFjwsptnCUpkoQIQ9qPPdE5LDAEPw3e6bv1NNx86Jh4Q==]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[traceNo] = [900376]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[queryId] = [691911192020539003768]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[traceTime] = [1119202053]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[txnTime] = [20191119202053]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119202115)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119202115)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119202115)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119202115)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119202115)|(ACP_SDK_LOG)]=[签名原文：[RtAbDNN/2QxeBm0/EOzik/NY7AfbyKD+uFo4/m5kiux9Y5NuIZUzNeKXHwtLj8KpI+njc6ymVePUIRNJQlziQNEgokXT7lmgvO6ZyoxECogy3QAk7LwlEwq8ebAS6jHsXpxAsdHr9MTyg8FthqSYAkE1g8Zwi6s0ZBNLBVXxbOpkCw0U3r7MPWEnfGcVO6uk+/1TWwoh3KuMdWtExPlEOGaJ/NUmYBo2wlfoM2ppWSVHGybiKfjkfz7biWB6G6gOqvYQfkjdvIXo6kpl8X2uVICm2JlDbMXhwd1zf+qFesOFjwsptnCUpkoQIQ9qPPdE5LDAEPw3e6bv1NNx86Jh4Q==]]
+[(20191119202115)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=1234567801&payCardType=01&payType=0001&queryId=691911192020539003768&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=900376&traceTime=1119202053&txnAmt=10900&txnSubType=01&txnTime=20191119202053&txnType=01&version=5.1.0]]
+[(20191119202115)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119202115)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119202311)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119202311)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119202311)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119202311)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119202311)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119202311)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119202322)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191119202322)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191119202322)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191119202322)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191119202322)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191119202322)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]
+[(20191119202326)|(ACP_SDK_LOG)]=[打印请求报文域 :]
+[(20191119202326)|(ACP_SDK_LOG)]=[bizType-->000201]
+[(20191119202326)|(ACP_SDK_LOG)]=[txnSubType-->01]
+[(20191119202326)|(ACP_SDK_LOG)]=[orderId-->1234567803]
+[(20191119202326)|(ACP_SDK_LOG)]=[backUrl-->http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse]
+[(20191119202326)|(ACP_SDK_LOG)]=[txnType-->01]
+[(20191119202326)|(ACP_SDK_LOG)]=[channelType-->07]
+[(20191119202326)|(ACP_SDK_LOG)]=[frontUrl-->http://localhost:8080/ACPSample_B2C/frontRcvResponse]
+[(20191119202326)|(ACP_SDK_LOG)]=[encoding-->UTF-8]
+[(20191119202326)|(ACP_SDK_LOG)]=[version-->5.1.0]
+[(20191119202326)|(ACP_SDK_LOG)]=[accessType-->0]
+[(20191119202326)|(ACP_SDK_LOG)]=[txnTime-->20191119202326]
+[(20191119202326)|(ACP_SDK_LOG)]=[merId-->777290058110048]
+[(20191119202326)|(ACP_SDK_LOG)]=[payTimeout-->20191119203826]
+[(20191119202326)|(ACP_SDK_LOG)]=[currencyCode-->156]
+[(20191119202326)|(ACP_SDK_LOG)]=[signMethod-->01]
+[(20191119202326)|(ACP_SDK_LOG)]=[txnAmt-->10900]
+[(20191119202326)|(ACP_SDK_LOG)]=[riskRateInfo-->{commodityName=测试商品名称}]
+[(20191119202326)|(ACP_SDK_LOG)]=[re-add BC provider]
+[(20191119202326)|(ACP_SDK_LOG)]=[================= SYS INFO begin====================]
+[(20191119202326)|(ACP_SDK_LOG)]=[os_name:Windows 10]
+[(20191119202326)|(ACP_SDK_LOG)]=[os_arch:amd64]
+[(20191119202326)|(ACP_SDK_LOG)]=[os_version:10.0]
+[(20191119202326)|(ACP_SDK_LOG)]=[java_vm_specification_version:11]
+[(20191119202326)|(ACP_SDK_LOG)]=[java_vm_specification_vendor:Oracle Corporation]
+[(20191119202326)|(ACP_SDK_LOG)]=[java_vm_specification_name:Java Virtual Machine Specification]
+[(20191119202326)|(ACP_SDK_LOG)]=[java_vm_version:11.0.2+9-LTS]
+[(20191119202326)|(ACP_SDK_LOG)]=[java_vm_name:Java HotSpot(TM) 64-Bit Server VM]
+[(20191119202326)|(ACP_SDK_LOG)]=[java.version:11.0.2]
+[(20191119202326)|(ACP_SDK_LOG)]=[java.vm.vendor=[Oracle Corporation]]
+[(20191119202326)|(ACP_SDK_LOG)]=[java.version=[11.0.2]]
+[(20191119202326)|(ACP_SDK_LOG)]=[Providers List:]
+[(20191119202326)|(ACP_SDK_LOG)]=[1.SUN]
+[(20191119202326)|(ACP_SDK_LOG)]=[2.SunRsaSign]
+[(20191119202326)|(ACP_SDK_LOG)]=[3.SunEC]
+[(20191119202326)|(ACP_SDK_LOG)]=[4.SunJSSE]
+[(20191119202326)|(ACP_SDK_LOG)]=[5.SunJCE]
+[(20191119202326)|(ACP_SDK_LOG)]=[6.SunJGSS]
+[(20191119202326)|(ACP_SDK_LOG)]=[7.SunSASL]
+[(20191119202326)|(ACP_SDK_LOG)]=[8.XMLDSig]
+[(20191119202326)|(ACP_SDK_LOG)]=[9.SunPCSC]
+[(20191119202326)|(ACP_SDK_LOG)]=[10.JdkLDAP]
+[(20191119202326)|(ACP_SDK_LOG)]=[11.JdkSASL]
+[(20191119202326)|(ACP_SDK_LOG)]=[12.SunMSCAPI]
+[(20191119202326)|(ACP_SDK_LOG)]=[13.SunPKCS11]
+[(20191119202326)|(ACP_SDK_LOG)]=[14.BC]
+[(20191119202326)|(ACP_SDK_LOG)]=[================= SYS INFO end=====================]
+[(20191119202326)|(ACP_SDK_LOG)]=[加载签名证书==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx]
+[(20191119202326)|(ACP_SDK_LOG)]=[Load RSA CertPath=[D:/ObjectOriented/Bank/certs/acp_test_sign.pfx],Pwd=[000000],type=[PKCS12]]
+[(20191119202327)|(ACP_SDK_LOG)]=[InitSignCert Successful. CertId=[69629715588]]
+[(20191119202327)|(ACP_SDK_LOG)]=[加载中级证书==>D:/ObjectOriented/Bank/certs/acp_test_middle.cer]
+[(20191119202327)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_middle.cer][CertId=117191299423423768281798]]
+[(20191119202327)|(ACP_SDK_LOG)]=[Load MiddleCert Successful]
+[(20191119202327)|(ACP_SDK_LOG)]=[加载根证书==>D:/ObjectOriented/Bank/certs/acp_test_root.cer]
+[(20191119202327)|(ACP_SDK_LOG)]=[[D:/ObjectOriented/Bank/certs/acp_test_root.cer][CertId=387593676442880368392934]]
+[(20191119202327)|(ACP_SDK_LOG)]=[Load RootCert Successful]
+[(20191119202327)|(ACP_SDK_LOG)]=[加载敏感信息加密证书==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer]
+[(20191119202327)|(ACP_SDK_LOG)]=[[d:/ObjectOriented/Bank/certs/acp_test_enc.cer][CertId=69026275926]]
+[(20191119202327)|(ACP_SDK_LOG)]=[Load EncryptCert Successful]
+[(20191119202327)|(ACP_SDK_LOG)]=[WARN: acpsdk.encryptTrackKey.modulus or acpsdk.encryptTrackKey.exponent is empty]
+[(20191119202327)|(ACP_SDK_LOG)]=[加载验证签名证书目录==>null 注：如果请求报文中version=5.1.0那么此验签证书目录使用不到，可以不需要设置（version=5.0.0必须设置）。]
+[(20191119202327)|(SDK_ERR_LOG)]=[WARN: acpsdk.validateCert.dir is empty]
+[(20191119202327)|(ACP_SDK_LOG)]=[打印待签名请求报文串（交易返回11验证签名失败时可以用来同正确的进行比对）:[accessType=0&backUrl=http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse&bizType=000201&certId=69629715588&channelType=07&currencyCode=156&encoding=UTF-8&frontUrl=http://localhost:8080/ACPSample_B2C/frontRcvResponse&merId=777290058110048&orderId=1234567803&payTimeout=20191119203826&riskRateInfo={commodityName=测试商品名称}&signMethod=01&txnAmt=10900&txnSubType=01&txnTime=20191119202326&txnType=01&version=5.1.0]]
+[(20191119202327)|(ACP_SDK_LOG)]=[打印摘要（交易返回11验证签名失败可以用来同正确的进行比对）:[107f5958761c8030034a3fab8305d2eae884267b2999cc886e4fb872bf3a3c8f]]
+[(20191119202327)|(ACP_SDK_LOG)]=[打印请求HTML，此为请求报文，为联调排查问题的依据：<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body><form id = "pay_form" action="https://gateway.test.95516.com/gateway/api/frontTransReq.do" method="post"><input type="hidden" name="bizType" id="bizType" value="000201"/><input type="hidden" name="txnSubType" id="txnSubType" value="01"/><input type="hidden" name="orderId" id="orderId" value="1234567803"/><input type="hidden" name="backUrl" id="backUrl" value="http://222.222.222.222:8080/ACPSample_B2C/backRcvResponse"/><input type="hidden" name="signature" id="signature" value="cMq/i/aAelaHWVRAfCXO8W9k5cHamcFTSBsIQpTaZA4LOQUBrR+5T6oI47XpPh6TMM7g6V1vhKEo503enCik8sU8Q1KCbzEg07UmKf05etbgGQuQEhrM/Ny6MJduPHhqqCOSe8etCJRhsfN1BYMkhPfsrgkhm7TDLOEGu1/PFKhjot/wPCxZ4zgXstPEwOmPIDc8Fim/j/eRTmXIzQ2b5HjhMjkXB7RF5fQIuha8DekS1ueb4bJTcNS4CN5us52eMHMSwon0QZ51jjH/pCew78x12Itswv09RymQeFl1aWhbFkaY3bcSeIuK/KBSFyfiirS6Fwusq9CT2n4OtLdoGg=="/><input type="hidden" name="txnType" id="txnType" value="01"/><input type="hidden" name="channelType" id="channelType" value="07"/><input type="hidden" name="frontUrl" id="frontUrl" value="http://localhost:8080/ACPSample_B2C/frontRcvResponse"/><input type="hidden" name="certId" id="certId" value="69629715588"/><input type="hidden" name="encoding" id="encoding" value="UTF-8"/><input type="hidden" name="version" id="version" value="5.1.0"/><input type="hidden" name="accessType" id="accessType" value="0"/><input type="hidden" name="txnTime" id="txnTime" value="20191119202326"/><input type="hidden" name="merId" id="merId" value="777290058110048"/><input type="hidden" name="payTimeout" id="payTimeout" value="20191119203826"/><input type="hidden" name="currencyCode" id="currencyCode" value="156"/><input type="hidden" name="signMethod" id="signMethod" value="01"/><input type="hidden" name="txnAmt" id="txnAmt" value="10900"/><input type="hidden" name="riskRateInfo" id="riskRateInfo" value="{commodityName=测试商品名称}"/></form></body><script type="text/javascript">document.all.pay_form.submit();</script></html>]
+[(20191119202346)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回开始]
+[(20191119202346)|(ACP_SDK_LOG)]=[返回报文中encoding=[UTF-8]]
+[(20191119202346)|(SDK_MSG_LOG)]=[============================== SDK REQ MSG BEGIN ==============================]
+[(20191119202346)|(SDK_MSG_LOG)]=[[bizType] = [000201]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[orderId] = [1234567803]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[signature] = [bkPdztk0NrXCLV2EN6JPFb2Eum/s7+0iVL7FReRV2mUf35r+gi1ph19Iyn5k9+/cbL/YkJrTwkjHiBgmweWVktNAZn3kJok8nrcVXbLfSqt/733tbUXhJ0BnkfhokoOFnYespR6d9bF3p+SvmvUsT1BZLJDWBuCfRpZ27Jg1srJ5VfD+W1gZwviOmPg0XjMTvX7qICSmoEzirKQfiq8iF6KAKFdzyiikZz3DVcnhUeskzOY+hhFQtX34zA6pFhnxPla2dH3xm1vCQdJ3xMffg/oMrtBEDHcF7QRX7RizPvBDkY1oaLnkkVH79MDBUvzhiRx/XvUrdZw2vzkErEFmGw==]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[traceNo] = [834000]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[settleAmt] = [10900]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[settleCurrencyCode] = [156]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[settleDate] = [1119]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[txnType] = [01]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[queryId] = [301911192023268340008]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[accessType] = [0]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[payType] = [0001]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[exchangeRate] = [0]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[traceTime] = [1119202326]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[txnTime] = [20191119202326]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[signPubKeyCert] = [-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[payCardType] = [01]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[txnSubType] = [01]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[accNo] = [6226********0048]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[encoding] = [UTF-8]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[version] = [5.1.0]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[respMsg] = [success]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[merId] = [777290058110048]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[currencyCode] = [156]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[respCode] = [00]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[signMethod] = [01]]
+[(20191119202346)|(SDK_MSG_LOG)]=[[txnAmt] = [10900]]
+[(20191119202346)|(SDK_MSG_LOG)]=[==============================  SDK REQ MSG END  ==============================]
+[(20191119202346)|(ACP_SDK_LOG)]=[验签处理开始]
+[(20191119202346)|(ACP_SDK_LOG)]=[verify certificate chain succeed.]
+[(20191119202346)|(ACP_SDK_LOG)]=[签名原文：[bkPdztk0NrXCLV2EN6JPFb2Eum/s7+0iVL7FReRV2mUf35r+gi1ph19Iyn5k9+/cbL/YkJrTwkjHiBgmweWVktNAZn3kJok8nrcVXbLfSqt/733tbUXhJ0BnkfhokoOFnYespR6d9bF3p+SvmvUsT1BZLJDWBuCfRpZ27Jg1srJ5VfD+W1gZwviOmPg0XjMTvX7qICSmoEzirKQfiq8iF6KAKFdzyiikZz3DVcnhUeskzOY+hhFQtX34zA6pFhnxPla2dH3xm1vCQdJ3xMffg/oMrtBEDHcF7QRX7RizPvBDkY1oaLnkkVH79MDBUvzhiRx/XvUrdZw2vzkErEFmGw==]]
+[(20191119202346)|(ACP_SDK_LOG)]=[待验签返回报文串：[accNo=6226********0048&accessType=0&bizType=000201&currencyCode=156&encoding=UTF-8&exchangeRate=0&merId=777290058110048&orderId=1234567803&payCardType=01&payType=0001&queryId=301911192023268340008&respCode=00&respMsg=success&settleAmt=10900&settleCurrencyCode=156&settleDate=1119&signMethod=01&signPubKeyCert=-----BEGIN CERTIFICATE-----
+MIIEQzCCAyugAwIBAgIFEBJJZVgwDQYJKoZIhvcNAQEFBQAwWDELMAkGA1UEBhMC
+Q04xMDAuBgNVBAoTJ0NoaW5hIEZpbmFuY2lhbCBDZXJ0aWZpY2F0aW9uIEF1dGhv
+cml0eTEXMBUGA1UEAxMOQ0ZDQSBURVNUIE9DQTEwHhcNMTcxMTAxMDcyNDA4WhcN
+MjAxMTAxMDcyNDA4WjB3MQswCQYDVQQGEwJjbjESMBAGA1UEChMJQ0ZDQSBPQ0Ex
+MQ4wDAYDVQQLEwVDVVBSQTEUMBIGA1UECxMLRW50ZXJwcmlzZXMxLjAsBgNVBAMU
+JTA0MUBaMjAxNy0xMS0xQDAwMDQwMDAwOlNJR05AMDAwMDAwMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDIWO6AESrg+34HgbU9mSpgef0sl6avr1d
+bD/IjjZYM63SoQi3CZHZUyoyzBKodRzowJrwXmd+hCmdcIfavdvfwi6x+ptJNp9d
+EtpfEAnJk+4quriQFj1dNiv6uP8ARgn07UMhgdYB7D8aA1j77Yk1ROx7+LFeo7rZ
+Ddde2U1opPxjIqOPqiPno78JMXpFn7LiGPXu75bwY2rYIGEEImnypgiYuW1vo9UO
+G47NMWTnsIdy68FquPSw5FKp5foL825GNX3oJSZui8d2UDkMLBasf06Jz0JKz5AV
+blaI+s24/iCfo8r+6WaCs8e6BDkaijJkR/bvRCQeQpbX3V8WoTLVAgMBAAGjgfQw
+gfEwHwYDVR0jBBgwFoAUz3CdYeudfC6498sCQPcJnf4zdIAwSAYDVR0gBEEwPzA9
+BghggRyG7yoBATAxMC8GCCsGAQUFBwIBFiNodHRwOi8vd3d3LmNmY2EuY29tLmNu
+L3VzL3VzLTE0Lmh0bTA5BgNVHR8EMjAwMC6gLKAqhihodHRwOi8vdWNybC5jZmNh
+LmNvbS5jbi9SU0EvY3JsMjQ4NzIuY3JsMAsGA1UdDwQEAwID6DAdBgNVHQ4EFgQU
+mQQLyuqYjES7qKO+zOkzEbvdFwgwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMA0GCSqGSIb3DQEBBQUAA4IBAQAujhBuOcuxA+VzoUH84uoFt5aaBM3vGlpW
+KVMz6BUsLbIpp1ho5h+LaMnxMs6jdXXDh/du8X5SKMaIddiLw7ujZy1LibKy2jYi
+YYfs3tbZ0ffCKQtv78vCgC+IxUUurALY4w58fRLLdu8u8p9jyRFHsQEwSq+W5+bP
+MTh2w7cDd9h+6KoCN6AMI1Ly7MxRIhCbNBL9bzaxF9B5GK86ARY7ixkuDCEl4XCF
+JGxeoye9R46NqZ6AA/k97mJun//gmUjStmb9PUXA59fR5suAB5o/5lBySZ8UXkrI
+pp/iLT8vIl1hNgLh0Ghs7DBSx99I+S3VuUzjHNxL6fGRhlix7Rb8
+-----END CERTIFICATE-----&traceNo=834000&traceTime=1119202326&txnAmt=10900&txnSubType=01&txnTime=20191119202326&txnType=01&version=5.1.0]]
+[(20191119202346)|(ACP_SDK_LOG)]=[验证签名成功]
+[(20191119202346)|(ACP_SDK_LOG)]=[验证签名结果[成功].]
+[(20191119202346)|(ACP_SDK_LOG)]=[FrontRcvResponse前台接收报文返回结束]

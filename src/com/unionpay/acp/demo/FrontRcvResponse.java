@@ -62,10 +62,10 @@ public class FrontRcvResponse extends HttpServlet {
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
 		HttpSession hs=req.getSession(true);
-		
+		String remoteIP=(String)hs.getAttribute("remoteIP");
 		System.out.println(hs.getAttribute("orderID"));
 		System.out.println("session2:"+hs.getId());
-		resp.sendRedirect("http://localhost:8080/ACPSample_B2C/");
+		resp.sendRedirect("http://"+remoteIP+":8080/TomcatTest");
 		System.out.println(count);
 		LogUtil.writeLog("FrontRcvResponse前台接收报文返回开始");
 

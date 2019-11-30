@@ -1,5 +1,6 @@
 package run;
 import java.util.*;
+import java.io.*;
 import java.io.Writer;
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -7,6 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.text.*;
+import javax.servlet.http.HttpSession;
 /**
  * Servlet implementation class Accept
  */
@@ -26,6 +28,17 @@ public class Accept extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		//File file=new File("D:\\ObjectOriented\\Bank\\JavaVersionSDK\\ACPSample_B2C\\certs");
+		//if(file.exists()) {
+			//System.out.println(request.getRealPath("hello.txt"));
+		//	System.out.println("file exist");
+		//}
+		//else {
+//			System.out.println(request.getRealPath("hello.txt"));
+//			System.out.println("not exist");
+//		}
+		HttpSession session=request.getSession(true);
+		session.setAttribute("remoteIP", request.getRemoteAddr());
 		String amount=request.getParameter("amount");
 		double damount=Double.valueOf(amount);
 		System.out.println(damount);

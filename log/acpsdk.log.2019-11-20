@@ -1,0 +1,6 @@
+[(20191120164052)|(ACP_SDK_LOG)]=[从classpath: /E:/eclipseEE/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ACPSample_B2C/WEB-INF/classes/ 获取属性文件acp_sdk.properties]
+[(20191120164052)|(ACP_SDK_LOG)]=[开始从属性文件中加载配置项]
+[(20191120164052)|(ACP_SDK_LOG)]=[配置项：私钥签名证书路径==>acpsdk.signCert.path==>D:/ObjectOriented/Bank/certs/acp_test_sign.pfx 已加载]
+[(20191120164052)|(ACP_SDK_LOG)]=[配置项：私钥签名证书密码==>acpsdk.signCert.pwd 已加载]
+[(20191120164052)|(ACP_SDK_LOG)]=[配置项：私钥签名证书类型==>acpsdk.signCert.type==>PKCS12 已加载]
+[(20191120164052)|(ACP_SDK_LOG)]=[配置项：敏感信息加密证书==>acpsdk.encryptCert.path==>d:/ObjectOriented/Bank/certs/acp_test_enc.cer 已加载]

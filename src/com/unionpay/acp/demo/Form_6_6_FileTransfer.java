@@ -88,7 +88,7 @@ public class Form_6_6_FileTransfer extends HttpServlet {
 				LogUtil.writeLog("验证签名成功");
 				String respCode = rspData.get("respCode");
 				if("00".equals(respCode)){
-					String outPutDirectory ="d:\\ObjectOriented\\Bank\\output";
+					String outPutDirectory ="\\output";
 					// 交易成功，解析返回报文中的fileContent并落地
 					String zipFilePath = AcpService.deCodeFileContent(rspData,outPutDirectory,DemoBase.encoding);
 					//对落地的zip文件解压缩并解析
